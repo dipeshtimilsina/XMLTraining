@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="businesscard.css" ?>
+<BusinessCard>
+    <Name>Dipesh Timilsina</Name>
+    <phone type="mobile"> (977) 9811-102343</phone>
+    <phone type="work">(01) 415-6554</phone>
+    <phone type="fax">(510) 555-1232</phone>
+    <email>dipesh.nepali@gmail.com</email>
+</BusinessCard>
